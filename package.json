@@ -1,6 +1,6 @@
 {
   "name": "@fantasmagor/group-array-elements",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Arkadiusz Jablonski",
   "license": "MIT",
   "description": "Simply package to split arrays into equal chunks",
