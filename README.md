@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash 
-$npm install group-array-elements
+$npm install @fantasmagor/group-array-elements
 ```
 
 ## Usage

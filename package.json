@@ -1,11 +1,12 @@
 {
-  "name": "group-array-elements",
+  "name": "@fantasmagor/group-array-elements",
   "version": "0.0.1",
   "author": "Arkadiusz Jablonski",
   "license": "MIT",
   "description": "Simply package to split arrays into equal chunks",
   "main": "index.js",
   "directories": {
+    "lib": "lib",
     "test": "test"
   },
   "scripts": {
@@ -14,5 +15,13 @@
   "devDependencies": {
     "chai": "^4.3.3",
     "mocha": "^8.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasmagor/group-array-elements.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fantasmagor/group-array-elements/issues"
+  },
+  "homepage": "https://github.com/fantasmagor/group-array-elements#readme"
 }
