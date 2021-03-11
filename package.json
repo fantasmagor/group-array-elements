@@ -9,7 +9,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test/groupArrayElements.test.js"
+    "test": "mocha test/group-array-elements.test.js"
   },
   "devDependencies": {
     "chai": "^4.3.3",
