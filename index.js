@@ -1,1 +1,1 @@
-module.exports = require('./lib/groupArrayElements');
+module.exports = require('./lib/group-array-elements');
